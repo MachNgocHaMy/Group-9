@@ -1,11 +1,11 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP 9
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: Mach Ngoc Ha My
+- Member 2: Nguyen Khanh Linh
+- Member 3: Nguyen Thi Thao
+- Member 4: Nguyen Viet Anh
 
 ## Starting server
 
